@@ -465,14 +465,14 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FD971F</string>
+				<string>#A5C261</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Handlebars: Constant</string>
 			<key>scope</key>
-			<string>support.constant.handlebars, meta.function.block.start.handlebars</string>
+			<string>support.constant.handlebars</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
